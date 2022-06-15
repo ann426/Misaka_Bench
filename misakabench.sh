@@ -67,14 +67,14 @@ speed_test() {
 
 speed() {
     speed_test '' 'speedtest'
-    speed_test '27594' '广州电信'
-    speed_test '3633' '上海电信'
-    speed_test '24447' '上海联通'
-    speed_test '16176' '中国香港'
-    speed_test '44988' '日本东京'
-    speed_test '13623' '新加坡  '
-    speed_test '4769' '卢森堡  '
-    speed_test '21541' '洛杉矶  '
+    speed_test '18476' 'Chief Telecom (Miaoli, Taiwan)'
+    speed_test '11705' 'Taiwan Mobile (Hsinchu, Taiwan)'
+    speed_test '12584' 'TFN Media (Hsinchu, Taiwan)'
+    speed_test '18450' 'Chunghwa Mobile (Hsinchu, Taiwan)'
+    speed_test '8626' 'SEEDNET (Hsinchu, Taiwan)'
+    speed_test '2590' 'Far EasTone Telecommunications Co., Ltd (Hsinchu, Taiwan)'
+    speed_test '17206' 'FarEasTone Telecom (Zhubei City, Taiwan) '
+    speed_test '5195' 'Taiwan Fixed Network (Hsinchu, Taiwan)'
 }
 
 io_test() {
