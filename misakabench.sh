@@ -323,5 +323,3 @@ install_speedtest && printf "%-20s%-20s%-26s%-20s\n" " 测速点位置" "上传�
 speed && rm -fr speedtest-cli
 next
 print_end_time
-next
-rm -f misakabench.sh
